@@ -1,0 +1,29 @@
+# Rust
+/kernel/target/
+/daemon/target/
+
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+
+# Node
+node_modules/
+
+# LaTeX build artifacts
+paper/*.pdf
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/figures/pdf/*.aux
+paper/figures/pdf/*.log
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
