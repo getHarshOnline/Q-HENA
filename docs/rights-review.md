@@ -1,14 +1,14 @@
 # Review rights before release
 
-Q-HENA inherits work through HENA, MUON, Q-MUON, Reckon and MONAD. Before publication, deployment, distribution, packaging or an alternative commercial offer, review the exact inherited files and proposed release together. The [licensing account](../README.md#licence) describes the selected policy, current declarations and pending inherited-rights review.
+Q-HENA carries HENA's protocol headers and copies support files or definitions from MONAD and Q-MUON. The kernel pins MONAD, Q-MUON and Reckon. Review the exact files, dependencies and proposed use together before publication, deployment, distribution, packaging or an alternative commercial offer. The [licensing account](../README.md#licence) describes the selected policy and current declarations.
 
 ## Inventory and acceptance
 
-The planned rights-and-notices manifest must identify the frozen HENA source, selected Q-MUON, Reckon and MONAD bases, and the candidate release tree. Trace MUON material inherited through Q-MUON as well. Include the full file inventory and classification, inherited notices, who can grant each right, dependency and generated-file evidence, licence conclusions, corresponding-source arrangements and unresolved exceptions. Keep Reckon's mixed-licence components separate by their actual grants.
+The planned rights-and-notices manifest identifies the frozen HENA source, selected Q-MUON, Reckon and MONAD versions, and the candidate release tree. Trace MUON material inherited through Q-MUON as well. Record the full file inventory, inherited notices, who can grant each right, resolved dependencies and generated output, licence conclusions, corresponding-source arrangements and unresolved exceptions. Record Reckon's own licence and the terms for each third-party component or tool the proposed release uses.
 
 Review each proposed act on models and data separately from copyright in the repository. Permission to run a model, retain its outputs, evaluate, train, derive another model or publish data cannot be inferred from a code licence.
 
-Harsh or counsel records acceptance separately from the inventory. Neither document supplies a missing right. Review the additions notice and the README's licence statement against the inventory, including the distinction between implemented code and placeholder files, before accepting them into the release tree.
+Harsh or counsel records acceptance separately from the inventory, based on the evidenced grants and the proposed use. Check the [additions notice](../LICENSE-ADDITIONS.md) and [licence statement](../README.md#licence) against the exact release tree.
 
 ## Proposed record locations
 

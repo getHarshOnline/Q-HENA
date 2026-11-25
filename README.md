@@ -16,7 +16,7 @@ The [build guide](docs/building.md) gives the prerequisites, kernel check and pa
 
 ## Licence
 
-Q-HENA's kernel, protocol headers and paper use [AGPL-3.0-or-later](LICENSE). Each inherited component keeps its existing grant and notices; this licence does not replace upstream terms or supply missing rights, and the rights review of the inherited material is still to be completed. The [additions notice](LICENSE-ADDITIONS.md) describes the draft paper and its definitions. Third-party material keeps its own terms and required notices.
+RawThoughts Enterprises Private Limited applies [AGPL-3.0-or-later](LICENSE) to the work it controls here. The [fork additions and inherited files](LICENSE-ADDITIONS.md) identify the paper and scaffold and their sources. Inherited files and dependencies keep their applicable terms and notices. The release review establishes the grants and notices for the exact tree.
 
 Commercial use is permitted under the applicable licence. Alternative terms require a separate written agreement with RawThoughts Enterprises Private Limited, which can grant them only for material it is entitled to relicense; this repository grants none. See [NOTICE](NOTICE) for ownership, [CITATION.cff](CITATION.cff) for citation and [CONTRIBUTING.md](CONTRIBUTING.md) for contribution requirements. Outside contributions remain closed pending review of the [draft agreement](CLA.md) and a way to record acceptance.
 
